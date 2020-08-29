@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Credit"
+        android:title="Credit"
+        android:icon="@drawable/ic_add_black_24dp"></item>
+
+    <item android:id="@+id/Debit"
+        android:title="Debit"
+        android:icon="@drawable/ic_remove_black_24dp"></item>
+
+
+    <item android:id="@+id/History"
+        android:title="History"
+        android:icon="@drawable/ic_history_black_24dp"></item>
+
+    <item android:id="@+id/About"
+        android:title="About Us"
+        android:icon="@drawable/ic_question_answer_black_24dp"></item>
+
+    <item android:id="@+id/Apps"
+        android:title="Our Apps"
+        android:icon="@drawable/ic_play_arrow_black_24dp"></item>
+
+    <item android:id="@+id/Rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_mood_black_24dp"></item>
+
+    <item android:id="@+id/LogOut"
+        android:title="LogOut"
+        android:icon="@drawable/ic_mood_bad_black_24dp"></item>
+
+
+
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:checkboxStyle">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondary">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/colorPrimaryDark</item>
+        <item name="android:textColorHint">@color/colorPrimaryDark</item>
+        <item name="android:textCheckMark">@color/colorPrimaryDark</item>
+        <item name="android:textColorAlertDialogListItem">@color/colorPrimaryDark</item>
+        <item name="android:textColorLink">@color/colorPrimaryDark</item>
+        <item name="android:cacheColorHint">@color/colorPrimaryDark</item>
+        <item name="colorControlActivated">@color/colorPrimaryDark</item>
+        <item name="android:radioButtonStyle">@color/colorPrimaryDark</item>
+        <item name="android:textColorHintInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondaryInverseNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/colorPrimaryDark</item>
+        <item name="android:textColorLinkInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorTertiary">@color/colorPrimaryDark</item>
+        <item name="android:textColorTertiaryInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondaryNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textColorHighlightInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverseNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:color">@color/colorPrimaryDark</item>
+
+
+    </style>
+
+
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:checkboxStyle">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondary">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/colorPrimaryDark</item>
+        <item name="android:textColorHint">@color/colorPrimaryDark</item>
+        <item name="android:textCheckMark">@color/colorPrimaryDark</item>
+        <item name="android:textColorAlertDialogListItem">@color/colorPrimaryDark</item>
+        <item name="android:textColorLink">@color/colorPrimaryDark</item>
+        <item name="android:cacheColorHint">@color/colorPrimaryDark</item>
+        <item name="colorControlActivated">@color/colorPrimaryDark</item>
+        <item name="android:radioButtonStyle">@color/colorPrimaryDark</item>
+        <item name="android:textColorHintInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondaryInverseNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/colorPrimaryDark</item>
+        <item name="android:textColorLinkInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorTertiary">@color/colorPrimaryDark</item>
+        <item name="android:textColorTertiaryInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorSecondaryNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textColorHighlightInverse">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverseNoDisable">@color/colorPrimaryDark</item>
+        <item name="android:color">@color/colorPrimaryDark</item>
+
+
+    </style>
+
+
+    <style name="MyCheckbox" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:colorControlNormal">#ffd600</item>
+        <item name="android:colorControlActivated">#0091ea</item>
+        <item name="android:colorControlHighlight">#c51162</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+
+
+
+</resources>

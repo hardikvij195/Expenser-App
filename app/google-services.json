@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895641948959",
+    "firebase_url": "https://expensesapp-d3a0b.firebaseio.com",
+    "project_id": "expensesapp-d3a0b",
+    "storage_bucket": "expensesapp-d3a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895641948959:android:28f9ee722dcd379019162a",
+        "android_client_info": {
+          "package_name": "com.hvtechnologies.expensesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895641948959-5k7uuatjnaamg6kjd6mil5jhnmc0bedc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvtechnologies.expensesapp",
+            "certificate_hash": "6a5db15e749557314e6166d95e0bbd20c52a9f99"
+          }
+        },
+        {
+          "client_id": "895641948959-n2i5l7d3b4qb3niccdf9somh8f621vrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7v3sH5it7hBKTDX-EJliTO9N_sqkj_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895641948959-n2i5l7d3b4qb3niccdf9somh8f621vrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
